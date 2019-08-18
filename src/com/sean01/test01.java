@@ -5,5 +5,6 @@ public class test01 {
 		System.out.println("test git by eclipse");
 		System.out.println("test git by eclipse");
 		System.out.println("test git by eclipse");
+		System.out.println("test git by eclipse");
 	}
 }
